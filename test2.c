@@ -6,6 +6,7 @@ void func4()
 void func5()
 {
     int test5 = 0;
+    int add1 = 10;
 }
 
 void func6()
