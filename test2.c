@@ -12,4 +12,5 @@ void func5()
 void func6()
 {
     int test6 = 0;
+    int add2 = 11;
 }

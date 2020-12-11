@@ -5,7 +5,7 @@ void func7()
 
 void func8()
 {
-    int test8 = 22;
+    int test8 = 5;
 }
 
 void func9()
